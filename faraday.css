@@ -1,0 +1,23 @@
+
+h1{
+	font-family: "Lucida Bright", Georgia, serif;
+	font-size: 58px;
+	font-style: normal;
+	font-variant: normal;
+}
+
+h3{
+    font-style: italic
+}
+
+p{
+    font-family: big calson;
+}
+
+.blue-text{
+    color:#2998e4;
+}
+
+.smaller-image{
+    width:600px;
+}
